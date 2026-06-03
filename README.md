@@ -61,7 +61,8 @@ genuine population health impact.
 # Project Brief: The "Sugar Trap" Market Gap Analysis
 
 **Client:** Helix CPG Partners (Strategic Food & Beverage Consultancy)
+
 **Deliverable:** Interactive Dashboard, Code Notebook & Insight Presentation
 
-Prepared by Alain Ishimwe Ngabo @2026
 ---
+  Prepared by Alain Ishimwe Ngabo @2026
