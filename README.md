@@ -34,7 +34,7 @@ Bar formats with 17+g protein and under 10g sugar per 100g.
   Legumes & Plant Protein, Nuts & Seeds, Fruits & Vegetables,
   Condiments & Seasonings, Meat & Fish
 
-### Candidate's Choice — Nutritional Health Scoring & ML Clustering
+### Candidate's Choice: Nutritional Health Scoring & ML Clustering
 Added a composite Health Score (0–100) modeled after WHO 
 dietary guidelines rewarding protein and fiber while 
 penalizing sugar and fat. Combined with KMeans clustering 
