@@ -14,6 +14,7 @@ and under 3.4g of sugar per 100g.
 - **Notebook:** [https://colab.research.google.com/drive/1qCGsKBRmwSDZplxDQj3u0BYiC72Ek_va?usp=sharing]
 - **Dashboard:** [https://nutrient-sugar-gapgit-fhhqwpnw9ewfwhgxtdm33r.streamlit.app/]
 - **Presentation:** [https://docs.google.com/presentation/d/1_8puIhPuS_QlxhpLqq2FcKFQbPs4jJDojfg5KARLeUw/edit?usp=sharing]
+- **Demo Video** [https://youtu.be/A_3kyrHVCm0]
 
 ## C. Technical Explanation
 
